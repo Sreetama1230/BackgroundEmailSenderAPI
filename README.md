@@ -53,7 +53,7 @@ Expected Output:-
 ```
 [Protected API]
 Schedule Email API
-Endpoint : localhost:8080/schedule-email/
+Endpoint :  http://localhost:8080/schedule-email/
 <br>
 Add JWT Token in the Authorization Bearer Token
 ```
